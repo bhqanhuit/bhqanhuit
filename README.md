@@ -1,7 +1,7 @@
 ### About Me
 I am a Python Developer.
 
-- :classical_building: I’m working as a Research Assistant at MMLAB, UIT, VNU-HCM. 
+- :classical_building: I’m working as a Research Student at MMLAB, UIT, VNU-HCM. 
 
 - :bulb: My research interests are Style Transfer, text-to-image, image-to-image translation or other topic in Generative AI. My Supervisior: Dr. Thanh Ngo Duc
 
